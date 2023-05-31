@@ -4,3 +4,4 @@ show_downloads: true
 google_analytics: true
 theme: jekyll-theme-architect
 copyright: © 2018+
+baseurl: /lister.pp.ua
